@@ -1,0 +1,15 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "description": "Test nodejs server",
+  "scripts": {
+    "example": "node server.js"
+  },
+  "keywords": [
+    "chrome"
+  ],
+  "dependencies": {
+    "express": "^4.17.1",
+    "puppeteer-stream": "^1.0.7"
+  }
+}
